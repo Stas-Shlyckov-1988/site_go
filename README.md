@@ -10,8 +10,8 @@ Go 1.11 or above.
 Run the following command to get the sources:
 
 ```
-git clone https://github.com/night-codes/golang-site-example
-cd golang-site-example
+git clone https://github.com/night-codes/site_go
+cd site_go
 go get -u
 ```
 
